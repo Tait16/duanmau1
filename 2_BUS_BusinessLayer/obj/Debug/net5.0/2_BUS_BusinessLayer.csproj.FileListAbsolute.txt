@@ -1,0 +1,45 @@
+D:\Tài\Dự Án Mẫu - TAITPH17683\2_BUS_BusinessLayer\bin\Debug\net5.0\2_BUS_BusinessLayer.deps.json
+D:\Tài\Dự Án Mẫu - TAITPH17683\2_BUS_BusinessLayer\bin\Debug\net5.0\2_BUS_BusinessLayer.dll
+D:\Tài\Dự Án Mẫu - TAITPH17683\2_BUS_BusinessLayer\bin\Debug\net5.0\ref\2_BUS_BusinessLayer.dll
+D:\Tài\Dự Án Mẫu - TAITPH17683\2_BUS_BusinessLayer\bin\Debug\net5.0\2_BUS_BusinessLayer.pdb
+D:\Tài\Dự Án Mẫu - TAITPH17683\2_BUS_BusinessLayer\bin\Debug\net5.0\1_DAL_DataAccessLayer.dll
+D:\Tài\Dự Án Mẫu - TAITPH17683\2_BUS_BusinessLayer\bin\Debug\net5.0\1_DAL_DataAccessLayer.pdb
+D:\Tài\Dự Án Mẫu - TAITPH17683\2_BUS_BusinessLayer\obj\Debug\net5.0\2_BUS_BusinessLayer.csproj.AssemblyReference.cache
+D:\Tài\Dự Án Mẫu - TAITPH17683\2_BUS_BusinessLayer\obj\Debug\net5.0\2_BUS_BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tài\Dự Án Mẫu - TAITPH17683\2_BUS_BusinessLayer\obj\Debug\net5.0\2_BUS_BusinessLayer.AssemblyInfoInputs.cache
+D:\Tài\Dự Án Mẫu - TAITPH17683\2_BUS_BusinessLayer\obj\Debug\net5.0\2_BUS_BusinessLayer.AssemblyInfo.cs
+D:\Tài\Dự Án Mẫu - TAITPH17683\2_BUS_BusinessLayer\obj\Debug\net5.0\2_BUS_BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Tài\Dự Án Mẫu - TAITPH17683\2_BUS_BusinessLayer\obj\Debug\net5.0\2_BUS_BusinessLayer.csproj.CopyComplete
+D:\Tài\Dự Án Mẫu - TAITPH17683\2_BUS_BusinessLayer\obj\Debug\net5.0\2_BUS_BusinessLayer.dll
+D:\Tài\Dự Án Mẫu - TAITPH17683\2_BUS_BusinessLayer\obj\Debug\net5.0\ref\2_BUS_BusinessLayer.dll
+D:\Tài\Dự Án Mẫu - TAITPH17683\2_BUS_BusinessLayer\obj\Debug\net5.0\2_BUS_BusinessLayer.pdb
+D:\Dự Án Mẫu - TAITPH17683\2_BUS_BusinessLayer\bin\Debug\net5.0\2_BUS_BusinessLayer.deps.json
+D:\Dự Án Mẫu - TAITPH17683\2_BUS_BusinessLayer\bin\Debug\net5.0\2_BUS_BusinessLayer.dll
+D:\Dự Án Mẫu - TAITPH17683\2_BUS_BusinessLayer\bin\Debug\net5.0\ref\2_BUS_BusinessLayer.dll
+D:\Dự Án Mẫu - TAITPH17683\2_BUS_BusinessLayer\bin\Debug\net5.0\2_BUS_BusinessLayer.pdb
+D:\Dự Án Mẫu - TAITPH17683\2_BUS_BusinessLayer\bin\Debug\net5.0\1_DAL_DataAccessLayer.dll
+D:\Dự Án Mẫu - TAITPH17683\2_BUS_BusinessLayer\bin\Debug\net5.0\1_DAL_DataAccessLayer.pdb
+D:\Dự Án Mẫu - TAITPH17683\2_BUS_BusinessLayer\obj\Debug\net5.0\2_BUS_BusinessLayer.csproj.AssemblyReference.cache
+D:\Dự Án Mẫu - TAITPH17683\2_BUS_BusinessLayer\obj\Debug\net5.0\2_BUS_BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dự Án Mẫu - TAITPH17683\2_BUS_BusinessLayer\obj\Debug\net5.0\2_BUS_BusinessLayer.AssemblyInfoInputs.cache
+D:\Dự Án Mẫu - TAITPH17683\2_BUS_BusinessLayer\obj\Debug\net5.0\2_BUS_BusinessLayer.AssemblyInfo.cs
+D:\Dự Án Mẫu - TAITPH17683\2_BUS_BusinessLayer\obj\Debug\net5.0\2_BUS_BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Dự Án Mẫu - TAITPH17683\2_BUS_BusinessLayer\obj\Debug\net5.0\2_BUS_BusinessLayer.csproj.CopyComplete
+D:\Dự Án Mẫu - TAITPH17683\2_BUS_BusinessLayer\obj\Debug\net5.0\2_BUS_BusinessLayer.dll
+D:\Dự Án Mẫu - TAITPH17683\2_BUS_BusinessLayer\obj\Debug\net5.0\ref\2_BUS_BusinessLayer.dll
+D:\Dự Án Mẫu - TAITPH17683\2_BUS_BusinessLayer\obj\Debug\net5.0\2_BUS_BusinessLayer.pdb
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\2_BUS_BusinessLayer\bin\Debug\net5.0\2_BUS_BusinessLayer.deps.json
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\2_BUS_BusinessLayer\bin\Debug\net5.0\2_BUS_BusinessLayer.dll
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\2_BUS_BusinessLayer\bin\Debug\net5.0\ref\2_BUS_BusinessLayer.dll
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\2_BUS_BusinessLayer\bin\Debug\net5.0\2_BUS_BusinessLayer.pdb
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\2_BUS_BusinessLayer\bin\Debug\net5.0\1_DAL_DataAccessLayer.dll
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\2_BUS_BusinessLayer\bin\Debug\net5.0\1_DAL_DataAccessLayer.pdb
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\2_BUS_BusinessLayer\obj\Debug\net5.0\2_BUS_BusinessLayer.csproj.AssemblyReference.cache
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\2_BUS_BusinessLayer\obj\Debug\net5.0\2_BUS_BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\2_BUS_BusinessLayer\obj\Debug\net5.0\2_BUS_BusinessLayer.AssemblyInfoInputs.cache
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\2_BUS_BusinessLayer\obj\Debug\net5.0\2_BUS_BusinessLayer.AssemblyInfo.cs
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\2_BUS_BusinessLayer\obj\Debug\net5.0\2_BUS_BusinessLayer.csproj.CoreCompileInputs.cache
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\2_BUS_BusinessLayer\obj\Debug\net5.0\2_BUS_BusinessLayer.csproj.CopyComplete
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\2_BUS_BusinessLayer\obj\Debug\net5.0\2_BUS_BusinessLayer.dll
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\2_BUS_BusinessLayer\obj\Debug\net5.0\ref\2_BUS_BusinessLayer.dll
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\2_BUS_BusinessLayer\obj\Debug\net5.0\2_BUS_BusinessLayer.pdb

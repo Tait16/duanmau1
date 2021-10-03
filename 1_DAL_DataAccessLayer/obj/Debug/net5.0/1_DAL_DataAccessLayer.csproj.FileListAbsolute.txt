@@ -1,0 +1,45 @@
+D:\Tài\Dự Án Mẫu - TAITPH17683\1_DAL_DataAccessLayer\bin\Debug\net5.0\1_DAL_DataAccessLayer.deps.json
+D:\Tài\Dự Án Mẫu - TAITPH17683\1_DAL_DataAccessLayer\bin\Debug\net5.0\1_DAL_DataAccessLayer.runtimeconfig.json
+D:\Tài\Dự Án Mẫu - TAITPH17683\1_DAL_DataAccessLayer\bin\Debug\net5.0\1_DAL_DataAccessLayer.runtimeconfig.dev.json
+D:\Tài\Dự Án Mẫu - TAITPH17683\1_DAL_DataAccessLayer\bin\Debug\net5.0\1_DAL_DataAccessLayer.dll
+D:\Tài\Dự Án Mẫu - TAITPH17683\1_DAL_DataAccessLayer\bin\Debug\net5.0\ref\1_DAL_DataAccessLayer.dll
+D:\Tài\Dự Án Mẫu - TAITPH17683\1_DAL_DataAccessLayer\bin\Debug\net5.0\1_DAL_DataAccessLayer.pdb
+D:\Tài\Dự Án Mẫu - TAITPH17683\1_DAL_DataAccessLayer\obj\Debug\net5.0\1_DAL_DataAccessLayer.csproj.AssemblyReference.cache
+D:\Tài\Dự Án Mẫu - TAITPH17683\1_DAL_DataAccessLayer\obj\Debug\net5.0\1_DAL_DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tài\Dự Án Mẫu - TAITPH17683\1_DAL_DataAccessLayer\obj\Debug\net5.0\1_DAL_DataAccessLayer.AssemblyInfoInputs.cache
+D:\Tài\Dự Án Mẫu - TAITPH17683\1_DAL_DataAccessLayer\obj\Debug\net5.0\1_DAL_DataAccessLayer.AssemblyInfo.cs
+D:\Tài\Dự Án Mẫu - TAITPH17683\1_DAL_DataAccessLayer\obj\Debug\net5.0\1_DAL_DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Tài\Dự Án Mẫu - TAITPH17683\1_DAL_DataAccessLayer\obj\Debug\net5.0\1_DAL_DataAccessLayer.dll
+D:\Tài\Dự Án Mẫu - TAITPH17683\1_DAL_DataAccessLayer\obj\Debug\net5.0\ref\1_DAL_DataAccessLayer.dll
+D:\Tài\Dự Án Mẫu - TAITPH17683\1_DAL_DataAccessLayer\obj\Debug\net5.0\1_DAL_DataAccessLayer.pdb
+D:\Tài\Dự Án Mẫu - TAITPH17683\1_DAL_DataAccessLayer\obj\Debug\net5.0\1_DAL_DataAccessLayer.genruntimeconfig.cache
+D:\Dự Án Mẫu - TAITPH17683\1_DAL_DataAccessLayer\bin\Debug\net5.0\1_DAL_DataAccessLayer.deps.json
+D:\Dự Án Mẫu - TAITPH17683\1_DAL_DataAccessLayer\bin\Debug\net5.0\1_DAL_DataAccessLayer.runtimeconfig.json
+D:\Dự Án Mẫu - TAITPH17683\1_DAL_DataAccessLayer\bin\Debug\net5.0\1_DAL_DataAccessLayer.runtimeconfig.dev.json
+D:\Dự Án Mẫu - TAITPH17683\1_DAL_DataAccessLayer\bin\Debug\net5.0\1_DAL_DataAccessLayer.dll
+D:\Dự Án Mẫu - TAITPH17683\1_DAL_DataAccessLayer\bin\Debug\net5.0\ref\1_DAL_DataAccessLayer.dll
+D:\Dự Án Mẫu - TAITPH17683\1_DAL_DataAccessLayer\bin\Debug\net5.0\1_DAL_DataAccessLayer.pdb
+D:\Dự Án Mẫu - TAITPH17683\1_DAL_DataAccessLayer\obj\Debug\net5.0\1_DAL_DataAccessLayer.csproj.AssemblyReference.cache
+D:\Dự Án Mẫu - TAITPH17683\1_DAL_DataAccessLayer\obj\Debug\net5.0\1_DAL_DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dự Án Mẫu - TAITPH17683\1_DAL_DataAccessLayer\obj\Debug\net5.0\1_DAL_DataAccessLayer.AssemblyInfoInputs.cache
+D:\Dự Án Mẫu - TAITPH17683\1_DAL_DataAccessLayer\obj\Debug\net5.0\1_DAL_DataAccessLayer.AssemblyInfo.cs
+D:\Dự Án Mẫu - TAITPH17683\1_DAL_DataAccessLayer\obj\Debug\net5.0\1_DAL_DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Dự Án Mẫu - TAITPH17683\1_DAL_DataAccessLayer\obj\Debug\net5.0\1_DAL_DataAccessLayer.dll
+D:\Dự Án Mẫu - TAITPH17683\1_DAL_DataAccessLayer\obj\Debug\net5.0\ref\1_DAL_DataAccessLayer.dll
+D:\Dự Án Mẫu - TAITPH17683\1_DAL_DataAccessLayer\obj\Debug\net5.0\1_DAL_DataAccessLayer.pdb
+D:\Dự Án Mẫu - TAITPH17683\1_DAL_DataAccessLayer\obj\Debug\net5.0\1_DAL_DataAccessLayer.genruntimeconfig.cache
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\1_DAL_DataAccessLayer\bin\Debug\net5.0\1_DAL_DataAccessLayer.deps.json
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\1_DAL_DataAccessLayer\bin\Debug\net5.0\1_DAL_DataAccessLayer.runtimeconfig.json
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\1_DAL_DataAccessLayer\bin\Debug\net5.0\1_DAL_DataAccessLayer.runtimeconfig.dev.json
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\1_DAL_DataAccessLayer\bin\Debug\net5.0\1_DAL_DataAccessLayer.dll
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\1_DAL_DataAccessLayer\bin\Debug\net5.0\ref\1_DAL_DataAccessLayer.dll
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\1_DAL_DataAccessLayer\bin\Debug\net5.0\1_DAL_DataAccessLayer.pdb
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\1_DAL_DataAccessLayer\obj\Debug\net5.0\1_DAL_DataAccessLayer.csproj.AssemblyReference.cache
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\1_DAL_DataAccessLayer\obj\Debug\net5.0\1_DAL_DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\1_DAL_DataAccessLayer\obj\Debug\net5.0\1_DAL_DataAccessLayer.AssemblyInfoInputs.cache
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\1_DAL_DataAccessLayer\obj\Debug\net5.0\1_DAL_DataAccessLayer.AssemblyInfo.cs
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\1_DAL_DataAccessLayer\obj\Debug\net5.0\1_DAL_DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\1_DAL_DataAccessLayer\obj\Debug\net5.0\1_DAL_DataAccessLayer.dll
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\1_DAL_DataAccessLayer\obj\Debug\net5.0\ref\1_DAL_DataAccessLayer.dll
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\1_DAL_DataAccessLayer\obj\Debug\net5.0\1_DAL_DataAccessLayer.pdb
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\1_DAL_DataAccessLayer\obj\Debug\net5.0\1_DAL_DataAccessLayer.genruntimeconfig.cache

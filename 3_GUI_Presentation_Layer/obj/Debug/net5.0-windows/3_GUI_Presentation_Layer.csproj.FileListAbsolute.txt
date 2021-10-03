@@ -1,0 +1,181 @@
+D:\Tài\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\3_GUI_Presentation_Layer.exe
+D:\Tài\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\3_GUI_Presentation_Layer.deps.json
+D:\Tài\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\3_GUI_Presentation_Layer.runtimeconfig.json
+D:\Tài\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\3_GUI_Presentation_Layer.runtimeconfig.dev.json
+D:\Tài\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\3_GUI_Presentation_Layer.dll
+D:\Tài\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\ref\3_GUI_Presentation_Layer.dll
+D:\Tài\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\3_GUI_Presentation_Layer.pdb
+D:\Tài\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+D:\Tài\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Tài\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Tài\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Tài\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Tài\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Tài\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Tài\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Tài\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Tài\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Tài\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+D:\Tài\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Tài\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+D:\Tài\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Tài\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+D:\Tài\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Tài\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Tài\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Tài\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Tài\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Tài\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+D:\Tài\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Tài\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+D:\Tài\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Tài\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Tài\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tài\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Tài\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tài\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Tài\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tài\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Tài\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tài\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Tài\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Tài\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\1_DAL_DataAccessLayer.dll
+D:\Tài\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\2_BUS_BusinessLayer.dll
+D:\Tài\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\2_BUS_BusinessLayer.pdb
+D:\Tài\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\1_DAL_DataAccessLayer.pdb
+D:\Tài\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\obj\Debug\net5.0-windows\3_GUI_Presentation_Layer.csproj.AssemblyReference.cache
+D:\Tài\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\obj\Debug\net5.0-windows\3_GUI_Presentation_Layer.csproj.GenerateResource.cache
+D:\Tài\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\obj\Debug\net5.0-windows\3_GUI_Presentation_Layer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tài\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\obj\Debug\net5.0-windows\3_GUI_Presentation_Layer.AssemblyInfoInputs.cache
+D:\Tài\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\obj\Debug\net5.0-windows\3_GUI_Presentation_Layer.AssemblyInfo.cs
+D:\Tài\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\obj\Debug\net5.0-windows\3_GUI_Presentation_Layer.csproj.CoreCompileInputs.cache
+D:\Tài\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\obj\Debug\net5.0-windows\3_GUI_Presentation_Layer.csproj.CopyComplete
+D:\Tài\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\obj\Debug\net5.0-windows\3_GUI_Presentation_Layer.dll
+D:\Tài\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\obj\Debug\net5.0-windows\ref\3_GUI_Presentation_Layer.dll
+D:\Tài\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\obj\Debug\net5.0-windows\3_GUI_Presentation_Layer.pdb
+D:\Tài\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\obj\Debug\net5.0-windows\3_GUI_Presentation_Layer.genruntimeconfig.cache
+D:\Tài\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\obj\Debug\net5.0-windows\_3_GUI_Presentation_Layer.Properties.Resources.resources
+D:\Tài\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\obj\Debug\net5.0-windows\_3_GUI_Presentation_Layer.Frm_Login.resources
+D:\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\3_GUI_Presentation_Layer.exe
+D:\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\3_GUI_Presentation_Layer.deps.json
+D:\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\3_GUI_Presentation_Layer.runtimeconfig.json
+D:\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\3_GUI_Presentation_Layer.runtimeconfig.dev.json
+D:\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\3_GUI_Presentation_Layer.dll
+D:\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\ref\3_GUI_Presentation_Layer.dll
+D:\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\3_GUI_Presentation_Layer.pdb
+D:\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+D:\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+D:\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+D:\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+D:\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+D:\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+D:\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\1_DAL_DataAccessLayer.dll
+D:\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\2_BUS_BusinessLayer.dll
+D:\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\2_BUS_BusinessLayer.pdb
+D:\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\1_DAL_DataAccessLayer.pdb
+D:\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\obj\Debug\net5.0-windows\3_GUI_Presentation_Layer.csproj.AssemblyReference.cache
+D:\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\obj\Debug\net5.0-windows\_3_GUI_Presentation_Layer.Frm_Login.resources
+D:\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\obj\Debug\net5.0-windows\_3_GUI_Presentation_Layer.Properties.Resources.resources
+D:\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\obj\Debug\net5.0-windows\3_GUI_Presentation_Layer.csproj.GenerateResource.cache
+D:\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\obj\Debug\net5.0-windows\3_GUI_Presentation_Layer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\obj\Debug\net5.0-windows\3_GUI_Presentation_Layer.AssemblyInfoInputs.cache
+D:\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\obj\Debug\net5.0-windows\3_GUI_Presentation_Layer.AssemblyInfo.cs
+D:\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\obj\Debug\net5.0-windows\3_GUI_Presentation_Layer.csproj.CoreCompileInputs.cache
+D:\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\obj\Debug\net5.0-windows\3_GUI_Presentation_Layer.csproj.CopyComplete
+D:\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\obj\Debug\net5.0-windows\3_GUI_Presentation_Layer.dll
+D:\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\obj\Debug\net5.0-windows\ref\3_GUI_Presentation_Layer.dll
+D:\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\obj\Debug\net5.0-windows\3_GUI_Presentation_Layer.pdb
+D:\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\obj\Debug\net5.0-windows\3_GUI_Presentation_Layer.genruntimeconfig.cache
+D:\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\obj\Debug\net5.0-windows\_3_GUI_Presentation_Layer.Frm_Register.resources
+D:\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\obj\Debug\net5.0-windows\_3_GUI_Presentation_Layer.Frm_ForgetMK.resources
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\3_GUI_Presentation_Layer.exe
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\3_GUI_Presentation_Layer.deps.json
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\3_GUI_Presentation_Layer.runtimeconfig.json
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\3_GUI_Presentation_Layer.runtimeconfig.dev.json
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\3_GUI_Presentation_Layer.dll
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\ref\3_GUI_Presentation_Layer.dll
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\3_GUI_Presentation_Layer.pdb
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\1_DAL_DataAccessLayer.dll
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\2_BUS_BusinessLayer.dll
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\2_BUS_BusinessLayer.pdb
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\bin\Debug\net5.0-windows\1_DAL_DataAccessLayer.pdb
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\obj\Debug\net5.0-windows\3_GUI_Presentation_Layer.csproj.AssemblyReference.cache
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\obj\Debug\net5.0-windows\_3_GUI_Presentation_Layer.Frm_ForgetMK.resources
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\obj\Debug\net5.0-windows\_3_GUI_Presentation_Layer.Frm_Login.resources
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\obj\Debug\net5.0-windows\_3_GUI_Presentation_Layer.Frm_Register.resources
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\obj\Debug\net5.0-windows\_3_GUI_Presentation_Layer.Properties.Resources.resources
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\obj\Debug\net5.0-windows\3_GUI_Presentation_Layer.csproj.GenerateResource.cache
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\obj\Debug\net5.0-windows\3_GUI_Presentation_Layer.GeneratedMSBuildEditorConfig.editorconfig
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\obj\Debug\net5.0-windows\3_GUI_Presentation_Layer.AssemblyInfoInputs.cache
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\obj\Debug\net5.0-windows\3_GUI_Presentation_Layer.AssemblyInfo.cs
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\obj\Debug\net5.0-windows\3_GUI_Presentation_Layer.csproj.CoreCompileInputs.cache
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\obj\Debug\net5.0-windows\3_GUI_Presentation_Layer.csproj.CopyComplete
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\obj\Debug\net5.0-windows\3_GUI_Presentation_Layer.dll
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\obj\Debug\net5.0-windows\ref\3_GUI_Presentation_Layer.dll
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\obj\Debug\net5.0-windows\3_GUI_Presentation_Layer.pdb
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\obj\Debug\net5.0-windows\3_GUI_Presentation_Layer.genruntimeconfig.cache
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\obj\Debug\net5.0-windows\_3_GUI_Presentation_Layer.Frm_Main.resources
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\obj\Debug\net5.0-windows\_3_GUI_Presentation_Layer.Frm_NhanVien.resources
+D:\MÔN HỌC VÀ PHẦM MỀM HỌC\Dự Án Mẫu - TAITPH17683\3_GUI_Presentation_Layer\obj\Debug\net5.0-windows\_3_GUI_Presentation_Layer.Frm_SanPham.resources
